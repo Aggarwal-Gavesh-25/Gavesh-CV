@@ -1,4 +1,4 @@
-# Gavesh-CV
+# Gavesh CV
 
 - [Website](https://gaveshaggarwal.netlify.app/)
   
