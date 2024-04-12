@@ -1,5 +1,13 @@
 # Gavesh CV Website
 
+This website, crafted using JavaScript, CSS, and HTML, showcases my professional journey, achievements, and a collection of my noteworthy projects.
+
+## Future Improvements / Plans
+
+- Enhancement of design for a more modern and intuitive interface.
+
+## Result
+
 [Website](https://gaveshaggarwal.netlify.app/)
 - This website, crafted using JavaScript, CSS, and HTML, showcases my professional journey, achievements, and a collection of my noteworthy projects.
   
